@@ -18,8 +18,8 @@
       </br>
   * **HTML ID:** do not separate the className with space </br>
       ```
-        <button id="prevSingle" class="Controls prev"> &#60; </button>
-        <button id="nextSingle" class="Controls next"> &#62; </button>
+        <button id="prevclassName" class="Controls prev"> &#60; </button>
+        <button id="nextclassName" class="Controls next"> &#62; </button>
       ```
       </br>
 ## HTML AND CSS
