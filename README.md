@@ -12,7 +12,10 @@
       </br>
 
   * **HTML class:** separate the className with space </br>
-      ```eg: <div class="slideshow className">``` </br>
+      ```
+         eg: <div class="slideshow className">
+      ``` 
+      </br>
   * **HTML ID:** do not separate the className with space </br>
       ```
         <button id="prevSingle" class="Controls prev"> &#60; </button>
