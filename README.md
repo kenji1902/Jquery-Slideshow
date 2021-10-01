@@ -7,9 +7,9 @@
   * **callback:** init has a callback parameter used for Cards Function</br>
 
    * eg: Slideshow = new slide(className,active)</br>
-      * Slideshow.init();</br>
+     * Slideshow.init();</br>
 
    * for class separate the className with space
-      * eg: <div class="slideshow className">
+     * eg: <div class="slideshow className">
  
 
