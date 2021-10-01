@@ -23,6 +23,10 @@
       ```
       </br>
 ## Include
+* For the script to function include JQUERY CDN at the head section
+     ```
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+     ```
 * To use the script, include **Slideshow.js** at the bottom of the body.</br>
      ```
         <script src="./SlideShow.js"></script>
