@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slideshow</title>
+    <link rel="stylesheet" href="/Slideshow/slideshow.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;0,900;1,700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!--Single Slideshow-->
+    <div class="slideshow Single">
+        <div class="slideshow-inner Single">
+            <!--Adjust --Cards in slideshow.css-->
+            <div class="slideshow-item Single">
+                <!--Card of Slideshow-->
+                <img src="/Slideshow/images/Image 001.png" alt="">
+            </div>
+            <div class="slideshow-item Single">
+                <!--Card of Slideshow-->
+                <img src="/Slideshow/images/Image 002.png" alt="">
+            </div>
+            <div class="slideshow-item Single">
+                <!--Card of Slideshow-->
+                <img src="/Slideshow/images/Image 003.png" alt="">
+            </div>
+
+        </div>
+        <!--Page is Optional-->
+        <span class="slideshow-page Single"></span>
+        <!--Concatenate the ClassName to ID-->
+        <button id="prevSingle" class="Controls prev"> &#60; </button>
+        <button id="nextSingle" class="Controls next"> &#62; </button>
+    </div>
+
+
+
+    <!--Multiple Slideshow-->
+    <div class="slideshow Multiple">
+        <div class="slideshow-inner Multiple">
+            <!--Adjust --Cards in slideshow.css-->
+            <div class="slideshow-item Multiple">
+                <!--Card of Slideshow-->
+                <img src="/Slideshow/images/Image 001.png" alt="">
+            </div>
+            <div class="slideshow-item Multiple">
+                <!--Card of Slideshow-->
+                <img src="/Slideshow/images/Image 002.png" alt="">
+            </div>
+            <div class="slideshow-item Multiple">
+                <!--Card of Slideshow-->
+                <img src="/Slideshow/images/Image 003.png" alt="">
+            </div>
+            <div class="slideshow-item Multiple">
+                <!--Card of Slideshow-->
+                <img src="/Slideshow/images/Image 001.png" alt="">
+            </div>
+            <div class="slideshow-item Multiple">
+                <!--Card of Slideshow-->
+                <img src="/Slideshow/images/Image 002.png" alt="">
+            </div>
+            <div class="slideshow-item Multiple">
+                <!--Card of Slideshow-->
+                <img src="/Slideshow/images/Image 003.png" alt="">
+            </div>
+
+        </div>
+        <!--Page is Optional-->
+        <span class="slideshow-page Multiple"></span>
+        <!--Concatenate the ClassName to ID-->
+        <button id="prevMultiple" class="Controls prev"> &#60; </button>
+        <button id="nextMultiple" class="Controls next"> &#62; </button>
+    </div>
+
+    <script src="/Slideshow/SlideShow.js"></script>
+    <script src="/Slideshow/guide.js"></script>
+</body>
+
+</html>
