@@ -3,7 +3,7 @@
  
  ## Format  
   * **className:**  your custom class which will be passed in the Creation of the object.
-  * **active:** which card should be marked active.
+  * **active:** index of card that should be marked active.
   * **callback:** init has a optional callback parameter used for Cards Function. </br>
       ```
          Slideshow = new slide(className,active)
