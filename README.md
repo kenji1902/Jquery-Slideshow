@@ -22,5 +22,10 @@
         <button id="nextclassName" class="Controls next"> &#62; </button>
       ```
       </br>
+## Include
+ to use the script, include **Slideshow.js** at the bottom of the body.
+    ```
+        <script src="./SlideShow.js"></script>
+    ```
 ## HTML AND CSS
  Refer to the given HTML and CSS format for more info.
