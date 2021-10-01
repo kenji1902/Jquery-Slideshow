@@ -4,12 +4,11 @@
  ## Format  
   * **className:**  your custom class which will be passed in the Creation of the object.</br>
   * **active:** which card should be marked active</br>
-  * **callback:** init has a callback parameter used for Cards Function</br>
-
+  * **callback:** init has a optional callback parameter used for Cards Function</br>
    * eg: Slideshow = new slide(className,active)</br>
-     * Slideshow.init();</br>
+     * ```Slideshow.init(callback);</br>```
 
    * for class separate the className with space
-     * eg: <div class="slideshow className">
+     * ```eg: <div class="slideshow className">```
  
 
