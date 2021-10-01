@@ -13,7 +13,7 @@
 
   * **HTML class:** separate the className with space </br>
       ```
-         eg: <div class="slideshow className">
+         <div class="slideshow className">
       ``` 
       </br>
   * **HTML ID:** do not separate the className with space </br>
