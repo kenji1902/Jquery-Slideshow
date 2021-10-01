@@ -23,7 +23,7 @@
       ```
       </br>
 ## Include
- to use the script, include **Slideshow.js** at the bottom of the body.
+ To use the script, include **Slideshow.js** at the bottom of the body.</br>
     ```
         <script src="./SlideShow.js"></script>
     ```
