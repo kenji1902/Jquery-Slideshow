@@ -1,9 +1,6 @@
-##Author: 
-Kenji Shimizu
-##Script: 
-Flexible Slideshow
-##Note:
- To adjust the Card size, u must explicitely adjust it in CSS
+**Author:** Kenji Shimizu
+**Script:** Flexible Slideshow
+**Note:** To adjust the Card size, u must explicitely adjust it in CSS
  using the class slideshow-item, and the Program will automatically
  Calculate the Width and number of Cards fitted in a container.
 
