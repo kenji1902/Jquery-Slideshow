@@ -4,11 +4,11 @@
  ## Format  
   * **className:**  your custom class which will be passed in the Creation of the object.
   * **active:** which card should be marked active.
-  * **callback:** init has a optional callback parameter used for Cards Function.
-      ```Slideshow = new slide(className,active)```
-      ```Slideshow.init(callback);</br>```
+  * **callback:** init has a optional callback parameter used for Cards Function. </br>
+      ```Slideshow = new slide(className,active)``` </br>
+      ```Slideshow.init(callback);</br>``` </br>
 
-  * for class separate the className with space
-      ```eg: <div class="slideshow className">```
+  * for class separate the className with space </br>
+      ```eg: <div class="slideshow className">``` </br>
  
 
