@@ -22,4 +22,5 @@
         <button id="nextSingle" class="Controls next"> &#62; </button>
       ```
       </br>
-
+## HTML AND CSS
+ Refer to the given HTML and CSS format for more info.
