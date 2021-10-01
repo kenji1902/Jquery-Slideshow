@@ -4,8 +4,8 @@
  ## Format  
   * **className:**  your custom class which will be passed in the Creation of the object.</br>
   * **active:** which card should be marked active</br>
-  * **callback:** init has a optional callback parameter used for Cards Function</br>
-   * eg: Slideshow = new slide(className,active)</br>
+  * **callback:** init has a optional callback parameter used for Cards Function:
+   * eg: Slideshow = new slide(className,active)
      * ```Slideshow.init(callback);</br>```
 
    * for class separate the className with space
