@@ -4,10 +4,11 @@
  ## Format  
   * **className:**  your custom class which will be passed in the Creation of the object.
   * **active:** index of card that will be marked active.
-  * **callback:** init has a optional callback parameter used for Cards Function. </br>
+  * **callback:** init has an optional callback parameter used to add Function to Cards. </br>
+      the parameter of callback has a slideshowItem that returns the reference for the card.
       ```
          Slideshow = new slide(className,active);
-         Slideshow.init(callback);
+         Slideshow.init(callback(slideshowItem){});
       ``` 
       </br>
 
