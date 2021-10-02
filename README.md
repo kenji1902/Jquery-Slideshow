@@ -6,7 +6,7 @@
   * **active:** index of card that should be marked active.
   * **callback:** init has a optional callback parameter used for Cards Function. </br>
       ```
-         Slideshow = new slide(className,active)
+         Slideshow = new slide(className,active);
          Slideshow.init(callback);
       ``` 
       </br>
